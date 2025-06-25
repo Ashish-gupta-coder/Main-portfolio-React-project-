@@ -1,0 +1,4 @@
+@import "tailwindcss";
+#card:hover{
+    box-shadow: 1px 6px 10px #9463ca ;
+}
